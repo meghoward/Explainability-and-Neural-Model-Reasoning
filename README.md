@@ -6,8 +6,10 @@ This project investigates fairness and interpretability in machine learning mode
 
 ### Fairness Analysis
 - **Most Impactful Features (Titanic Dataset):**
-  - Survival is highly correlated with fare (positive) and class (negative).
-  - Gender (being female) is a critical determinant of survival.
+  - Survival is highly correlated with fare (positive) and class (negative).  
+    ![Feature Correlation](images/feature_correlation.png)
+  - Gender (being female) is a critical determinant of survival.  
+    ![Sex Correlation](images/sex_correlation.png)
 - **Fairness Metrics:**
   - Models with fairness constraints demonstrated reduced bias but required trade-offs in accuracy.
 
