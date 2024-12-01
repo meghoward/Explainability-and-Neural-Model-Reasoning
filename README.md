@@ -42,11 +42,6 @@ This project investigates fairness and interpretability in machine learning mode
     - Preprocessing for Titanic and Dry Bean datasets.
     - Quantitative evaluation of explanation techniques.
 
-### Example Visualizations
-- Feature attribution visualizations comparing SHAP, DeepLIFT, and SVS.
-- Plots showing the effect of noise and categorical perturbations on infidelity scores.
-- Counterfactual example comparisons highlighting trade-offs in validity and plausibility.
-
 ## Usage
 
 ### Prerequisites
